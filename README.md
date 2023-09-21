@@ -23,7 +23,6 @@ In my spare time, I like to watch movies :tv:, play video games 🎮, and readin
 ##  🎉 Skills 
 - **FrontEnd**: React, React Router, Remix, Tailwind, SASS, Vite
 - **BackEnd**: Node.js, Express, Hono
-- **Mobile**: React Native
 - **UI Frameworks**: ChakraUI, Bootstrap, Tailwind, DaisyUI
 - **Web technologies**: HTML5, CSS3, JavaScript
 - **Databases**: MongoDB, MySQL, PostgreSQL, Planetscale
