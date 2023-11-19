@@ -1,4 +1,4 @@
-# Hi, I'm Ahmed 👋
+# Hi, I'm Ahmed
 
 >  💻 Full-stack Web Developer | React + Node
 
@@ -14,7 +14,7 @@ My passion lies in building user-friendly web applications and optimizing their 
 I'm driven by the satisfaction of creating practical digital solutions that improve people's lives.
 I'm committed to staying at the forefront of web development to ensure that the online world remains accessible, enjoyable, and continually evolving.
 
-In my spare time, I like to watch movies :tv:, play video games 🎮, and reading 📖.
+
 
 
 ## ⚡ Stats
