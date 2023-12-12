@@ -7,7 +7,7 @@
 [![GitHub: @AhmedNawaf](https://img.shields.io/github/followers/ahmednawaf?label=follow&style=social)](https://github.com/ahmednawaf)
 [![Gmail: ahmednawaflearn](https://img.shields.io/badge/Gmail-ahmednawaflearn-red)](mailto:ahmednawaflearn@gmail.com)
 
-I am a Full stack developer from Riyadh, 🇸🇦.
+I am a Full-stack developer from Riyadh, 🇸🇦.
 
 
 My passion lies in building user-friendly web applications and optimizing their performance.
@@ -17,8 +17,8 @@ I'm committed to staying at the forefront of web development to ensure that the 
 
 
 
-## ⚡ Stats
-![AhmedNawaf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmednawaf&hide=["issues"]&show_icons=true)
+## ⚡ Most used languages
+![Ahmed's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmednawaf&hide_progress=true)
 
 ##  🎉 Skills 
 - **FrontEnd**: React, React Router, Remix, Tailwind, SASS, Vite
