@@ -26,5 +26,5 @@ I'm committed to staying at the forefront of web development to ensure that the 
 - **UI Frameworks**: ChakraUI, Bootstrap, Tailwind, DaisyUI
 - **Web technologies**: HTML5, CSS3, JavaScript
 - **Databases**: MongoDB, MySQL, PostgreSQL, Planetscale
-- **Misc**: Git, Eslint, Prettier, Typescript
-- **Languages**: Python, Java, SQL
+- **Misc**: Git, Eslint, Prettier
+- **Languages**: TypeScript, Java, SQL
