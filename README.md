@@ -5,7 +5,7 @@
 [![Twitter: @NotRealAhmed](https://img.shields.io/twitter/follow/NotRealAhmed?style=social)](https://twitter.com/NotRealAhmed)
 [![Linkedin: ahmed-al-motairi](https://img.shields.io/badge/-Ahmed%20Al%20Motairi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmed-al-motairi-b96045240/)](https://www.linkedin.com/in/ahmed-al-motairi-b96045240/)
 [![GitHub: @AhmedNawaf](https://img.shields.io/github/followers/ahmednawaf?label=follow&style=social)](https://github.com/ahmednawaf)
-[![Gmail: ahmednawaflearn](https://img.shields.io/badge/Gmail-ahmednawaflearn-red)](mailto:ahmednawaflearn@gmail.com)
+
 
 I am a Full-stack developer from Riyadh, 🇸🇦.
 
