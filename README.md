@@ -22,9 +22,8 @@ I'm committed to staying at the forefront of web development to ensure that the 
 
 ##  🎉 Skills 
 - **FrontEnd**: React, React Router, Remix, Tailwind, SASS, Vite
-- **BackEnd**: Node.js, Express, Hono
+- **BackEnd**: Node.js, Express, Nest.js
 - **UI Frameworks**: ChakraUI, Bootstrap, Tailwind, DaisyUI
-- **Web technologies**: HTML5, CSS3, JavaScript
 - **Databases**: MongoDB, MySQL, PostgreSQL, Planetscale
 - **Misc**: Git, Eslint, Prettier
 - **Languages**: TypeScript, Java, SQL
